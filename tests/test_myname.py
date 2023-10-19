@@ -5,4 +5,3 @@ def test_who():
 
 def test_plus():
     plus()
-    
